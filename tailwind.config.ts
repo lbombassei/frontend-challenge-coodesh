@@ -12,6 +12,8 @@ const config: Config = {
       colors: {
         customGray: "#555555",
         customPurple: "#652D91",
+        customGray2: "#393B3D",
+        placeholderGray: "#808487",
       },
       keyframes: {
         "accordion-down": {
